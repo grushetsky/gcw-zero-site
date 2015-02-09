@@ -16,7 +16,7 @@ include "includes/header.php";
 <p><a href="files/opendingux-gcw0-toolchain.2014-08-20.tar.bz2">GCW Zero Toolchain</a> 2014-08-20, for x86 Linux</a><br>
 Changes: updated GCC to 4.9.1, added GLM (OpenGL Mathematics), SDL2 (no longer experimental), SDL2_image, SDL2_ttf, SDL2_mixer, SDL2_net.</p>
 <p><a href="files/opendingux-gcw0-toolchain.2014-05-05.tar.bz2">GCW Zero Toolchain</a> 2014-05-05, for x86 Linux</a><br>
-Changes: updated GCC to 4.8.2, use static libraries for Boost to avoid binary compatibility issues, removed build paths from <code>.la</code> files, added Allegro 4, OpenAL, Java (JamVM + GNU Classpath), JavaScript (NodeJS), Lua (lua-jit) and SDL2 (experimental).</p>
+Changes: updated GCC to 4.8.2, use static libraries for Boost to avoid binary compatibility issues, removed build paths from <code>.la</code> files, added Allegro 4, OpenAL, Java (JamVM + GNU Classpath), JavaScript (Node.js), Lua (LuaJIT) and SDL2 (experimental).</p>
 <p><a href="files/opendingux-gcw0-toolchain.2013-10-04.tar.bz2">GCW Zero Toolchain</a> 2013-10-04, for x86 Linux</a><br>
 Changes: improved <a href="files/etnaviv-2013-10-04.html">OpenGL ES</a> support, experimental <a href="http://wiki.dingoonity.org/index.php?title=Development:MXU">MXU</a> support in inline assembly (pass <code>-mmxu</code> to GCC).</p>
 <p><a href="files/opendingux-gcw0-toolchain.2013-09-13.tar.bz2">GCW Zero Toolchain</a> 2013-09-13, for x86 Linux</a><br>
